@@ -1,5 +1,5 @@
 <?php
-echo "Hello world lần thứ 2";
+echo "Hello world lần thứ 1000";
 echo "</br>";
 echo "git hub test!!!";
 //tôi không biết
